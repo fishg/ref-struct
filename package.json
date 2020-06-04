@@ -22,12 +22,12 @@
   },
   "dependencies": {
     "debug": "4",
-    "ref": "fishg/ref#electron-8.x"
+    "ref": "fishg/ref#prebuild"
   },
   "devDependencies": {
     "bindings": "^4.1.1",
     "nan": "^2.14.0",
     "mocha": "*",
-    "ref-array": "fishg/ref-array#electron-8.x"
+    "ref-array": "fishg/ref-array#prebuild"
   }
 }
